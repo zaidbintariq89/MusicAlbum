@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FA1B1D1E</color>
+    <color name="colorPrimaryDark">#1B1D1E</color>
+    <color name="colorAccent">#6EC6FF</color>
+
+    <color name="app_theme">#1B1D1E</color>
+    <color name="hint_app_theme">#801B1D1E</color>
+    <color name="divider_color">#979797</color>
+    <color name="bg_highlight">#F9F9F9</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#212121</color>
+    <color name="colorBlackSecondary">#B3000000</color>
+    <color name="colorGreen">#4CAF50</color>
+    <color name="colorYellow">#FFC103</color>
+    <color name="colorRed">#B00020</color>
+    <color name="grey">#636363</color>
+    <color name="secondary_grey">#54000000</color>
+    <color name="light_grey">#EEEEEE</color>
+    <color name="highlight_color">#1A2196F3</color>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YoutubePlayerAssignement</string>
+    <string name="YOUTUBE_API_KEY">YOUR API KEY</string>
+    <string name="SEARCH_KEY">YOUR API KEY</string>
+</resources>
